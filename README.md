@@ -1,16 +1,16 @@
-# flutter_application_1
+# Devnology-store-flutter
 
-A new Flutter project.
+Aplicativo Flutter para a loja Devnology, com listagem de produtos, carrinho de compras, finalização de compra e histórico.
 
-## Getting Started
+Decisões técnicas tomadas
+Projeto estruturado com Flutter usando Provider para gerenciamento de estado do carrinho e histórico.
 
-This project is a starting point for a Flutter application.
+Persistência simples utilizando armazenamento local para o histórico de compras.
 
-A few resources to get you started if this is your first Flutter project:
+Listagem de produtos mockados localmente, divididos em fornecedores brasileiros e europeus.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Componentização das telas para manter o código organizado: Home, Carrinho, Finalizar Compra, Histórico de Compras.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Design responsivo e navegação simples entre telas usando Navigator.
+
+Alteração das imagens originais para links válidos, garantindo que as imagens carreguem corretamente no app.
