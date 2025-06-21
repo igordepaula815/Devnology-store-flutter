@@ -1,6 +1,6 @@
 # Devnology-store-flutter
 
-Aplicativo Flutter para a loja Devnology, com listagem de produtos, carrinho de compras, finalização de compra e histórico.
+Aplicativo Flutter para a loja Devnology, com listagem de produtos, carrinho de compras, Listagem de produtos vindos de dois fornecedores e finalização de compra e histórico.
 
 Decisões técnicas tomadas
 Projeto estruturado com Flutter usando Provider para gerenciamento de estado do carrinho e histórico.
